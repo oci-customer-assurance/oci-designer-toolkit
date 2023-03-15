@@ -1,7 +1,7 @@
 # Oracle Cloud Infrastructure Designer and Visualisation Toolkit [0.47.0](CHANGELOG.md#version-0.47.0)
 
 ## Customer Assurance Demo Environment
-http://150.136.36.7/okit/designer
+Contact Customer Assurance Engineer
 
 ## Getting Started
 OCI designer and visualisation toolKIT (OKIT) is a browser based tool that allows the user to [design](https://www.ateam-oracle.com/introduction-to-okit-the-oci-designer-toolkit), 
