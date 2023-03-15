@@ -1,4 +1,4 @@
-# Oracle Cloud Infrastructure Designer and Visualisation Toolkit [0.46.1](CHANGELOG.md#version-0.46.1)
+# Oracle Cloud Infrastructure Designer and Visualisation Toolkit [0.47.0](CHANGELOG.md#version-0.47.0)
 
 ## Customer Assurance Demo Environment
 http://150.136.36.7/okit/designer
@@ -37,7 +37,7 @@ OCI environments through a graphical web based interface.
 
 ## Changes
 
-[Changes for the current release (0.46.1) are documented here.](CHANGELOG.md#version-0.46.1)
+[Changes for the current release (0.47.0) are documented here.](CHANGELOG.md#version-0.47.0)
 
 
 ## Releases
